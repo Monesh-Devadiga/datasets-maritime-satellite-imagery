@@ -52,8 +52,7 @@ The datasets support the following components of the project:
 
 ```text
     ├── box-marked-img
-    ├── detection/
-    │   └── README.md
+    ├── no ship-water
     └── classification/
         └── README.md
 ```
