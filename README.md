@@ -19,7 +19,6 @@ https://www.kaggle.com
 https://www.kaggle.com/datasets/siddharthkumarshah/ships-in-aerial-images-->
 
 ### 2. Satellite Imagery of Ships
-
 Purpose:
 
 * Ship and non-ship binary classification
