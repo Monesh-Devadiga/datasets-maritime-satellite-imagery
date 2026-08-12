@@ -6,7 +6,6 @@ This directory contains references and dataset documentation for satellite image
 The project uses two publicly available Kaggle datasets for maritime vessel detection and classification.
 
 ### 1. Vessels in Aerial Images
-
 Purpose:
 * Ship and vessel detection
 * YOLO-based object detection
