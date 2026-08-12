@@ -53,7 +53,7 @@ The datasets support the following components of the project:
 ```text
     ├── box-marked-img
     ├── no ship-water
-    └── classification/
+    └── ships
         └── README.md
 ```
 
