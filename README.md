@@ -41,7 +41,6 @@ https://www.kaggle.com/datasets/apollo2506/satellite-imagery-of-ships-->
 
 ## Applications
 The datasets support the following components of the project:
-
 * Vessel detection using YOLO
 * Ship and non-ship classification using CNN models
 * Satellite image preprocessing
