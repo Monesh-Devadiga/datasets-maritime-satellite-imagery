@@ -14,8 +14,8 @@ Purpose:
 
 The dataset contains labeled RGB aerial and satellite images with vessel bounding-box annotations.
 
-Source:
-https://www.kaggle.com/datasets/siddharthkumarshah/ships-in-aerial-images
+<!--Source:
+https://www.kaggle.com/datasets/siddharthkumarshah/ships-in-aerial-images-->
 
 ### 2. Satellite Imagery of Ships
 
