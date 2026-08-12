@@ -26,8 +26,8 @@ Purpose:
 
 The dataset contains 4,292 labeled RGB satellite images, including 1,022 ship images for binary classification.
 
-Source:
-https://www.kaggle.com/datasets/apollo2506/satellite-imagery-of-ships
+<!--Source:
+https://www.kaggle.com/datasets/apollo2506/satellite-imagery-of-ships-->
 
 ## Dataset Statistics
 
