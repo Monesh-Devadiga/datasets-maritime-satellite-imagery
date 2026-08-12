@@ -51,8 +51,6 @@ The datasets support the following components of the project:
 ## Recommended Directory Structure
 
 ```text
-datasets/
-└── maritime-satellite-imagery/
     ├── README.md
     ├── detection/
     │   └── README.md
