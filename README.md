@@ -51,7 +51,7 @@ The datasets support the following components of the project:
 ## Recommended Directory Structure
 
 ```text
-    ├── README.md
+    ├── box-marked-img
     ├── detection/
     │   └── README.md
     └── classification/
