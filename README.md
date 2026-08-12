@@ -8,7 +8,6 @@ The project uses two publicly available Kaggle datasets for maritime vessel dete
 ### 1. Vessels in Aerial Images
 
 Purpose:
-
 * Ship and vessel detection
 * YOLO-based object detection
 * Bounding-box annotation
