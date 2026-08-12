@@ -37,7 +37,7 @@ https://www.kaggle.com/datasets/apollo2506/satellite-imagery-of-ships-->
 | Satellite Imagery of Ships | Ship classification          |  4,292 |
 | Combined datasets          | Detection and classification | 6,473* |
 
-*The combined count follows the dataset description used in the project research documentation. The two datasets contain overlapping image sources or subsets, so their raw image counts should not be treated as a simple sum.
+* The combined count follows the dataset description used in the project research documentation. The two datasets contain overlapping image sources or subsets, so their raw image counts should not be treated as a simple sum.
 
 ## Applications
 
