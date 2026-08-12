@@ -64,8 +64,7 @@ The original datasets are hosted on Kaggle. Store dataset files locally or throu
 * Vessels in Aerial Images with YOLO Bounding-Box Annotations
 * Satellite Imagery of Ships
 
-Both datasets are publicly available through Kaggle. Refer to the original dataset pages for licensing, attribution, and usage conditions.
+Both datasets are publicly available through Kaggle. Refer to the original dataset pages for licensing, attribution and usage conditions.
 
 ## Citation
-
 If you use these datasets in research or publications, cite the original Kaggle dataset authors and follow their stated licensing requirements.
