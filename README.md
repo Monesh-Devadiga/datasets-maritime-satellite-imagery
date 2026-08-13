@@ -1,4 +1,4 @@
-# Satellite  Imagery Datasets
+# Satellite Imagery Datasets
  
 This directory contains references and dataset documentation for satellite imagery used in the Smart Maritime Surveillance and Safety System.
 
