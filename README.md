@@ -5,7 +5,7 @@ This directory contains references and dataset documentation for satellite image
 ## Dataset Overview
 The project uses two publicly available Kaggle datasets for maritime vessel detection and classification.
  
-Source:a
+Source:
 https://www.kaggle.com
 
 ### 1. Vessels in Aerial Images
