@@ -1,7 +1,7 @@
 # Satellite Imagery Datasets
  
 This directory contains references and dataset documentation for satellite imagery used in the Smart Maritime Surveillance and Safety System.
-d
+
 ## Dataset Overview
 The project uses two publicly available Kaggle datasets for maritime vessel detection and classification.
  
