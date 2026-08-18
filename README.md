@@ -7,7 +7,7 @@ The project uses two publicly available Kaggle datasets for maritime vessel dete
  
 Source:
 https://www.kaggle.com
-
+ 
 ### 1. Vessels in Aerial Images
 Purpose:
 * Ship and vessel detection
